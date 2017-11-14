@@ -122,4 +122,4 @@ Go to https://goo.gl/forms/eR6jDKnjqUyowUKf1
 - David Núñez Amórtegui - [@davidnuneza](https://twitter.com/davidnuneza) - Bogotá, Colombia
   - Skills: Political Science
   - Project: SeamOS Democracia Digital - [https://seamos.co/)] - SeamOS give effective incidence to people in political decision in real time through a digital and citizen platform 
-  - Technology helps getting people closer to government and reducing costs to participate, making politics more democratic and transparent
+  - _Technology helps getting people closer to government and reducing costs to participate, making politics more  democratic and transparent_
