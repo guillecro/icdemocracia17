@@ -99,7 +99,7 @@ Go to https://goo.gl/forms/eR6jDKnjqUyowUKf1
 
 ## Designing a community collaboration tool for urban green space planning
 - @manuoliveira
-- Carles Boïls Gisbert - [@cariesNinot](https://twitter.com/cariesNinot)
+- Carles Boïls Gisbert - [@cariesNinot](https://twitter.com/cariesNinot) - Valencia, Spain
   - Skills: Back end and Front End, GIS Developer & Analyst, Python, PostgreSQL-PostGIS, MySQL, PHP, Django, AngularJS	 
   - Organization: Used to work for ExCiteS - Website is [http://www.ucl.ac.uk/excites)] - Research group at University College of London. They are doing Citizen Science with Extreme Citizen groups such as experts  like PhD Students and non-literate people. Check out GeoKey (http://geokey.org.uk/) and Sapelli Project (http://www.sapelli.org/)
 - Trevor Croxsan
