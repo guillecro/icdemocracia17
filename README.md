@@ -1,7 +1,10 @@
 ![Imgur](https://i.imgur.com/sZJAryL.jpg)
 
 A credit roll of all the people who made this fantastic event possible :)
-¿Dont know how to do pull request? Go to https://goo.gl/forms/eR6jDKnjqUyowUKf1
+
+¿Dont know how to do pull request? 
+
+Go to https://goo.gl/forms/eR6jDKnjqUyowUKf1
 
 ## Medialab Prado / Participa Lab Staff
 - Soon!
