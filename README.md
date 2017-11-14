@@ -116,7 +116,7 @@ Go to https://goo.gl/forms/eR6jDKnjqUyowUKf1
 - @markun
 - @raquelbalvez0
 - @atenas_abilen
-- Guillermo Croppi - [@guillermocroppi](https://twitter.com/guillermocroppi)
+- Guillermo Croppi - [@guillermocroppi](https://twitter.com/guillermocroppi) - Santa Fe, Argentina
   - Skills: Fullstack engineer, Databases, PHP, Server deployment, HTML/CSS/JS, Vue.js 
   - Project: Virtuagora - A web plataform for public participation - Twitter is [@virtuagora](https://twitter.com/virtuagora) - Website is [https://www.virtuagora.org](https://virtuagora.org/)
 - David Núñez Amórtegui - [@davidnuneza](https://twitter.com/davidnuneza) - Bogotá, Colombia
