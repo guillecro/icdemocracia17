@@ -2,7 +2,7 @@
 
 A credit roll of all the people who made this fantastic event possible :)
 
-¿Dont know how to do pull request? 
+¿Dont know how to do pull request?
 
 Go to https://goo.gl/forms/eR6jDKnjqUyowUKf1
 
@@ -93,7 +93,7 @@ Go to https://goo.gl/forms/eR6jDKnjqUyowUKf1
 - @usocialmaps
 
 
-## ????
+## Designing a community collaboration tool for urban green space planning
 - @manuoliveira
 - @cariesNinot
 - Trevor Croxsan
@@ -112,4 +112,3 @@ Go to https://goo.gl/forms/eR6jDKnjqUyowUKf1
 - @atenas_abilen
 - @guillermocroppi
 - @davidnuneza
-
